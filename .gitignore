@@ -3,4 +3,4 @@ target/
 logs/
 allure-results/
 test-output/
-servertest.iml
+*.iml
